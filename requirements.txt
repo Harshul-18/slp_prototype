@@ -1,0 +1,5 @@
+boken==2.4.3
+streamlit
+streamlit_bokeh_events
+transformers
+torch
